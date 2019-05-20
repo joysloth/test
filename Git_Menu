@@ -1,0 +1,13 @@
+git add 파일명.확장자
+git commit -m "메시지"
+
+- branch list
+git branch
+git branch -v
+
+git status              (상태)
+git add 파일이름        (파일 추가)
+git commit -m "메시지"  (저장 및 메시지)
+
+git branch git_name     (git 접속자)
+git checkout git_name   (접속자 변경)
