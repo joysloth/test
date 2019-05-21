@@ -7,13 +7,15 @@ git commit -m "메시지"
 git branch
 git branch -v
 
-git status              (상태)
-git add 파일이름        (파일 추가)
-git commit -m "메시지"  (저장 및 메시지)
-git log                 (log 정보)
-git reset --hard HEAD^  (이전 상태로 되돌리기)
+(상태 정보)         git status              
+(파일 추가)         git add 파일이름        
+(저장 및 메시지)     git commit -m "메시지"  
+(log 정보)          git log
+(이전으로 되돌리기)   git reset --hard HEAD^  
+(commit 정보입력)    gir reset --hard 
+(remote 주소입력)    git remote add origin
+(자료 업로드)        git push -u origin master
 
-
-git branch git_name     (git 접속자)
-git checkout git_name   (접속자 변경)
+(git 접속자)         git branch git_name     
+(접속자 변경)         git checkout git_name
 
